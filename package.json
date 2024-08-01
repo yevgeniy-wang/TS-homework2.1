@@ -1,0 +1,14 @@
+{
+  "name": "tshomework2.1",
+  "version": "1.0.0",
+  "description": "homework typescript 2.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
